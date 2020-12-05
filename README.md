@@ -1,6 +1,8 @@
 # Smoke-Simulation
 Project for CS184, Berkeley
 
+Eric Ying, Fangzhou Lan, Yuanhao Zhai
+
 ### Change Log
 
 - Using NanoGUI now, removed imgui submodule
